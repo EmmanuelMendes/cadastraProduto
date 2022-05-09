@@ -3,7 +3,7 @@
 ---
 
 
-<img src="/home/emmanuel/Documentos/Java/Projetos/cadastraProduto/cadastraProduto/diagramaIncial">
+<img src="/home/emmanuel/Documentos/Java/Projetos/cadastraProduto/cadastraProduto/diagramaIncial.jpg">
 
 
 
