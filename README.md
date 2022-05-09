@@ -3,7 +3,7 @@
 ---
 
 
-<img url="https://drive.google.com/file/d/1kqrZRQabNFiO6-hezl9BdqpwH2j-lfyy/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1kqrZRQabNFiO6-hezl9BdqpwH2j-lfyy/view?usp=sharing">
 
 
 
